@@ -20,3 +20,8 @@ function johnLennonFacts(facts) {
   }
   return sentences
 }
+
+function iLoveTheBeatles(num) {
+  var emptya = []
+  
+}
