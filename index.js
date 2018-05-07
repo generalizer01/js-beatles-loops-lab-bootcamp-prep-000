@@ -6,7 +6,7 @@ function theBeatlesPlay(musicians,instruments) {
     sentence=musicians[i]+ " plays " + instruments[i]
     sentences.push(sentence)
   }
-  
+  console.log(sentences)
   return sentences
 }
 
@@ -26,6 +26,6 @@ function iLoveTheBeatles(num) {
   do { emptya.push("I love the Beatles!")
     num+=1
   } while (num<15)
-  
+  console.log(emptya)
   return emptya
 }
